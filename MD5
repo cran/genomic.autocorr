@@ -1,0 +1,9 @@
+539f64d295a1572c99b997542d6448d3 *DESCRIPTION
+72ee837e49d961c99da3ac5327a4d367 *NAMESPACE
+4ab4bd7d47919e84a6576ce80831183e *R/block-glm.R
+40dc62d5452bc6ffef7d34700ecb67dc *README.md
+37ca0fe14b44e35374b23e59652f7f61 *man/acf.summary.Rd
+b8b527a00544441198a29b4b78bd16e6 *man/block.glm.Rd
+461baa668ecced32874b169571b0ae9d *man/internalfunctions.Rd
+7b45922aea3bdd588d63e247a4f333dd *tests/testthat.R
+52d312639432f937a0e30e5ed7446a1b *tests/testthat/test-examples.R
